@@ -4,9 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Scientist
 -----------------------
 
-Hey! starting with me little intro, I'm an Avionics Engineer who has the audacity to learn new things and apply them in my day to day tasks.
-My Data Science Certifications and Google Project Management Professional Certificate are the proof of my eagerness to learn. I've solid foundations in machine Learning concepts and have experience in developing machine learning models and data science projects.
-Here is the link to my \[Data Science portfolio\](https://github.com/AsadAliAkhtar/Data-Science-Portfolio).
+Hey! Starting with my little intro, I'm an Avionics Engineer who has the audacity to learn new things and apply them in my day-to-day tasks.
+My Data Science Certifications and Google Project Management Professional Certificate are the proof of my eagerness to learn. I've solid foundations in machine learning concepts and have experience in developing machine learning models and data science projects.
+Here is the link to my [Data Science portfolio](https://github.com/AsadAliAkhtar/Data-Science-Portfolio).
+
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [asadaliakhktar1@gmail.com](mailto:asadaliakhktar1@gmail.com)
