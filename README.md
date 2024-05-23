@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Scientist
 -----------------------
 
-Hey! starting with me little intro, I'm an Avionics Engineer who has the audacity to learn new things and apply them in my professional life.
+Hey! starting with me little intro, I'm an Avionics Engineer who has the audacity to learn new things and apply them in my day to day tasks.
+My Google Project Management Professional Certificate and Data Science Certificate is the proof of my eagreness to learn.
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [asadaliakhktar1@gmail.com](mailto:asadaliakhktar1@gmail.com)
