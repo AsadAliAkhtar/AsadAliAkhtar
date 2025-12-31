@@ -1,17 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Asad Ali Akhtar
 =======================================================================================================================================
 
-Aspiring Data Scientist
+Data Scientist | Financial Engineering Graduate (in progress)
 -----------------------
 
-Hey! Starting with my little intro, I'm an Avionics Engineer who has the audacity to learn new things and apply them in my day-to-day tasks.
-My Data Science Certifications and Google Project Management Professional Certificate are the proof of my eagerness to learn. I've solid foundations in machine learning concepts and have experience in developing machine learning models and data science projects.
-Here is the link to my [Data Science portfolio](https://github.com/AsadAliAkhtar/Data-Science-Portfolio).
+I am an Avionics Engineering graduate transitioning into Data Science and Financial Engineering, with a strong focus on quantitative analysis, machine learning, and financial modeling. I have built a solid foundation through hands-on projects, formal certifications, and rigorous academic training.
+My background combines engineering problem-solving, statistical learning, and computational finance, enabling me to design data-driven solutions for real-world analytical and financial problems. I have experience developing machine learning models, performing exploratory and statistical analysis, and implementing end-to-end data science workflows in Python.
+I am currently advancing my expertise in financial engineering and deep learning, with a growing interest in quantitative finance, risk modeling, and applied machine learning.
 
 
-* 🌍  I'm based in Karachi, Pakistan
+* 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [asadaliakhktar1@gmail.com](mailto:asadaliakhktar1@gmail.com)
-* 🧠  I'm learning Deep Learning
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
