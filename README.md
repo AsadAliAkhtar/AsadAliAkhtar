@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Asad Ali Akhtar
 =======================================================================================================================================
 
-Data Scientist | Financial Engineering Graduate (in progress)
+Data Scientist | Financial Engineering Graduate
 -----------------------
 
 I am an Avionics Engineering graduate transitioning into Data Science and Financial Engineering, with a strong focus on quantitative analysis, machine learning, and financial modeling. I have built a solid foundation through hands-on projects, formal certifications, and rigorous academic training.
